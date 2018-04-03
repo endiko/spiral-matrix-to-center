@@ -1,4 +1,4 @@
-# spiral-matrix-from-center
+# spiral-matrix-to-center
 
 Output to browser console.
 
